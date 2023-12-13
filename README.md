@@ -1,1 +1,3 @@
 -- Python code sample while learning
+-- Nothing is on my own, i have got these problem all over from various portal, internet, hackerrank, etc, etc. 
+-- The original idea/problem/requirement belongs to respective owner who originally created
